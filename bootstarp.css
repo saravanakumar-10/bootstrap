@@ -1,0 +1,47 @@
+.img{
+
+    height:30px ;
+    width: 40px;
+}
+.class{
+    height: 600px;
+    width: 1024px;
+}
+.card1{
+    height: 300px;
+    width:250px;
+    border: solid black;
+}
+.image3{
+    height:50px;
+    width: 120px;
+}
+.para{
+    color: coral;
+}
+.para1{
+    color: green;
+}
+.button{
+    height: 50px;
+    width: 120px;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    border-style: none;
+    margin-left: 80px;
+}
+.img2{
+    height: 400px;
+    width:610px;
+}
+.flex{
+    display: flex;
+    display: inline-flex;
+}
+.div{
+    display: flex;
+}
+.about{
+    font-size: 25px;
+}
